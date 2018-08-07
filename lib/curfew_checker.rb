@@ -54,4 +54,10 @@ def platinum_curfew_checker (time)
   elsif time< 23
   puts "you're on time"
   
+  elsif time== 21
+  puts "you have two hours left"
   
+end
+end
+
+platinum_curfew_checker(21)
