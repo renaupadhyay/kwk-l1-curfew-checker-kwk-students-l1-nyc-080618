@@ -38,4 +38,7 @@ def deluxe_curfew_checker
   if time= 23
     puts "Time to apparate"
   elsif time> 23
+  puts "You're in trouble! Better get home quick!"
+  
+elsif time<23 
   
