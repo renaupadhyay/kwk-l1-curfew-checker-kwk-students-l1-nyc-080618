@@ -33,4 +33,8 @@ end
 end
 
 complex_curfew_checker(23)
+
+def deluxe_curfew_checker
+  if time= 23
+    puts ""
   
