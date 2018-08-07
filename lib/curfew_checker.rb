@@ -60,4 +60,4 @@ def platinum_curfew_checker (time)
 end
 end
 
-platinum_curfew_checker(24)
+platinum_curfew_checker(23)
