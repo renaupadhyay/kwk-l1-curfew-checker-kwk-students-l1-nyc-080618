@@ -12,7 +12,7 @@ def simple_curfew_checker(time)
     puts "You're in trouble! Better get home quick!"
     
   elsif time < 23
-  puts "You're not in trouble!"
+  puts "You can keep having fun"
 end
 end
 
