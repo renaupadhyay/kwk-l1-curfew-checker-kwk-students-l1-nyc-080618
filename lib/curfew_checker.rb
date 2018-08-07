@@ -45,5 +45,5 @@ puts "you have 2 hours left"
 
 end
 end
-
+deluxe_curfew_checker(21)
   
