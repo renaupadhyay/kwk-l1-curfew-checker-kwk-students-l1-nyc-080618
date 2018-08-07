@@ -47,3 +47,11 @@ end
 end
 deluxe_curfew_checker(21)
   
+def platinum_curfew_checker (time)
+  if time == 23
+    puts "time to apprate"
+    
+  elsif time< 23
+  puts "you're on time"
+  
+  
