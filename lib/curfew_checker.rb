@@ -40,5 +40,10 @@ def deluxe_curfew_checker
   elsif time> 23
   puts "You're in trouble! Better get home quick!"
   
-elsif time<23 
+elsif time=21
+puts "you have 2 hours left"
+
+end
+end
+
   
