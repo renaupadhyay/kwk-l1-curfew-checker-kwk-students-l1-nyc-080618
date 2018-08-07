@@ -23,7 +23,7 @@ def complex_curfew_checker(time)
   if time > 23
     puts "You're in trouble! Better get home quick!"
     
-  elsif time = 23
+  elsif time == 23
   puts "You're on time!"
   
 else
@@ -35,12 +35,12 @@ end
 complex_curfew_checker(23)
 
 def deluxe_curfew_checker (time)
-  if time= 23
+  if time== 23
     puts "Time to apparate"
   elsif time> 23
   puts "You're in trouble! Better get home quick!"
   
-elsif time=21
+elsif time==21
 puts "you have 2 hours left"
 
 end
