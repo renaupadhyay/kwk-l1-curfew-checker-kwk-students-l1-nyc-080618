@@ -36,5 +36,6 @@ complex_curfew_checker(23)
 
 def deluxe_curfew_checker
   if time= 23
-    puts ""
+    puts "Time to apparate"
+  elsif time> 23
   
